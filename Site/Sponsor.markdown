@@ -9,15 +9,16 @@
 
 # Sponsor PhysLean 
 
-If you'd be interested in helping support PhysLean financially, please reach out to Joseph Tooby-Smith 
+If you'd be interested helping support PhysLean financially please reach out to Joseph Tooby-Smith 
 at: 
 
-- josephs [at] ru [dot] is 
+- js4814 [at] bath [dot] ac [dot] uk 
 
 or on the [Lean Zulip](https://leanprover.zulipchat.com) (preferred).
 
-With financial support it may be possible to take on PhD students and PostDocs to help grow 
-PhysLean quicker and more efficiently. It may also be possible to improve the infrastructure 
-and wider usability around the project. 
+Financial support will allow us to: 
+
+- Host servers for an online version of PhysLean and search engines
+- Increase the rate of development of the project, and documentation
 
 
