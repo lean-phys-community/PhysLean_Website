@@ -13,7 +13,7 @@ Below are a list of project ideas, no matter who you are, you may attempt any of
 You should assume that this list is up-to date. They are roughly ordered in complexity 
 from easiest to hardest. If you would like to 'claim' one of these projects or 
 add projects let Joseph Tooby-Smith know, 
-or make a pull-request to the PhysLean [website repo](https://github.com/HEPLean/PhysLean_Website).
+or make a pull-request to the PhysLean [website repo](https://github.com/lean-phys-community/PhysLean_Website).
 
 ### Classical mechanics of a pendulum 
 <p class="badge badge-primary" style="background-color: rgba(129, 22, 67, 0.1);color: #690080;">Available</p> 
@@ -64,7 +64,7 @@ Part of this will involve defining the Lorentz-invariant measure and the mass-sh
 <p class="badge badge-primary" style="background-color: rgba(129, 22, 67, 0.1);color: #690080;">Available</p> 
 
 Within PhysLean there are currently some informal results related to the FLRW metric,
-these appear in [this](https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean) file. 
+these appear in [this](https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean) file. 
 The aim of this project would be to formalize into Lean those results, and expand upon them. 
 See a related discussion [here](https://leanprover.zulipchat.com/#narrow/channel/479953-PhysLean/topic/Cosmology.20Project.20and.20dependencies/with/512468525).
 

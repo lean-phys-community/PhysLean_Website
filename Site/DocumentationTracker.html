@@ -120,8 +120,8 @@ layout: default
 <!-- Rendering the graph. -->
 <script>
     async function graphFormat(dotFile) {
-        // Getting lines from https://raw.githubusercontent.com/HEPLean/PhysLean/master/scripts/MetaPrograms/module_doc_no_lint.txt 
-        const response = await fetch('https://raw.githubusercontent.com/HEPLean/PhysLean/master/scripts/MetaPrograms/module_doc_no_lint.txt');
+        // Getting lines from https://raw.githubusercontent.com/lean-phys-community/PhysLean/master/scripts/MetaPrograms/module_doc_no_lint.txt 
+        const response = await fetch('https://raw.githubusercontent.com/lean-phys-community/PhysLean/master/scripts/MetaPrograms/module_doc_no_lint.txt');
         const text = await response.text();
         const undocumentedModules = new Set(text.split('\n').filter(line => line.trim() !== ''));
         // Transfrom the entries in undocumentedModules from e.g. 
@@ -139,7 +139,7 @@ layout: default
         dotFile = dotFile.replace(nodeRegex, (match, nodeName, existingAttributes) => {
             const isUndocumented = transformedModules.has(nodeName);
             const fillColor = isUndocumented ? '#FFCCCC' : '#CCFFCC'; // Light red or light green
-            const urlOfNode = `https://github.com/HEPLean/PhysLean/blob/master/${nodeName.replace(/\./g, '/')}.lean`;
+            const urlOfNode = `https://github.com/lean-phys-community/PhysLean/blob/master/${nodeName.replace(/\./g, '/')}.lean`;
             
             // Add URL and fill color to the node attributes
             existingAttributes += `, URL="${urlOfNode}"`;
@@ -198,7 +198,7 @@ To help follow the steps below!</p>
 
 <h3>Phase 1: Get the Code</h3>
 <ol>
-    <li>Fork the <a href="https://github.com/HEPLean/PhysLean">PhysLean GitHub repository</a>.
+    <li>Fork the <a href="https://github.com/lean-phys-community/PhysLean">PhysLean GitHub repository</a>.
         (Copy the master branch only)</li>
     <li>Clone your forked repository to your local machine. (Optional, you can also edit directly on GitHub)</li>
 </ol>

@@ -10,17 +10,17 @@
 
 - date: 15/08/25
   content: | 
-    [PR689](https://github.com/HEPLean/PhysLean/pull/694)
+    [PR689](https://github.com/lean-phys-community/PhysLean/pull/694)
     Added properties of tanh needed for the reflectionless potential in quantum mechanics.
 
 - date: 14/08/25
   content: | 
-    [PR690](https://github.com/HEPLean/PhysLean/pull/690)
+    [PR690](https://github.com/lean-phys-community/PhysLean/pull/690)
     Improvements to the issue tracker for bumps of PhysLean versions.
 
 - date: 13/08/25
   content: | 
-    [PR689](https://github.com/HEPLean/PhysLean/pull/689)
+    [PR689](https://github.com/lean-phys-community/PhysLean/pull/689)
     Improvements to the API around the type corresponding to Time.
 ## end of week 
 ## Summary of this week in PhysLean:
@@ -31,22 +31,22 @@
 ## Propsal for the formulation of teams with specific roles, on the PhysLean zulip.
 - date: 06/08/25
   content: | 
-    [PR683](https://github.com/HEPLean/PhysLean/pull/683)
+    [PR683](https://github.com/lean-phys-community/PhysLean/pull/683)
     improves efficiency of the API around charges in string theory.
 
 - date: 05/08/25
   content: | 
-    [PR682](https://github.com/HEPLean/PhysLean/pull/682)
+    [PR682](https://github.com/lean-phys-community/PhysLean/pull/682)
     improves the API around finite-dimensional quantum systems.
 
 - date: 04/08/25
   content: | 
-    [PR680](https://github.com/HEPLean/PhysLean/pull/680)
+    [PR680](https://github.com/lean-phys-community/PhysLean/pull/680)
     adds the creation and annihilation operators for quantum reflectionless potential.
 
 - date: 02/08/25
   content: | 
-    [PR679](https://github.com/HEPLean/PhysLean/pull/679)
+    [PR679](https://github.com/lean-phys-community/PhysLean/pull/679)
     proves the fundamental theorem of variational calculus. 
 
 ## end of week 
@@ -56,69 +56,69 @@
 ## New results related to the exponential map of the Lorentz group.
 - date: 01/08/25
   content: | 
-    [PR677](https://github.com/HEPLean/PhysLean/pull/677)
+    [PR677](https://github.com/lean-phys-community/PhysLean/pull/677)
     adds energy and pressure units to PhysLean.
 
 - date: 01/08/25
   content: | 
-    [PR672](https://github.com/HEPLean/PhysLean/pull/672)
+    [PR672](https://github.com/lean-phys-community/PhysLean/pull/672)
     proves more properties related to the expotential map of the Lorentz group.
 
 - date: 31/07/25
   content: | 
-    [PR674](https://github.com/HEPLean/PhysLean/pull/674)
+    [PR674](https://github.com/lean-phys-community/PhysLean/pull/674)
     starts work on the reflectionless potential in quantum mechanics.
 
 - date: 30/07/25
   content: | 
-    [PR668](https://github.com/HEPLean/PhysLean/pull/668)
+    [PR668](https://github.com/lean-phys-community/PhysLean/pull/668)
     along with others, adds units for length, time, mass, charge and temperature to PhysLean.
 
 - date: 28/07/25
   content: | 
-    [PR666](https://github.com/HEPLean/PhysLean/pull/666)
+    [PR666](https://github.com/lean-phys-community/PhysLean/pull/666)
     Improves documentation around the momentum.
 
 - date: 28/07/25
   content: | 
-    [PR665](https://github.com/HEPLean/PhysLean/pull/665)
+    [PR665](https://github.com/lean-phys-community/PhysLean/pull/665)
     Improves documentation around the Temperature.
 
 - date: 28/07/25
   content: | 
-    [PR660](https://github.com/HEPLean/PhysLean/pull/660)
+    [PR660](https://github.com/lean-phys-community/PhysLean/pull/660)
     Adds the manifold corresponding to time and related documentation.
 
 # Start of new week
 - date: 25/07/25
   content: | 
-    [PR659](https://github.com/HEPLean/PhysLean/pull/659)
+    [PR659](https://github.com/lean-phys-community/PhysLean/pull/659)
     proves results related to the expotential map for the Lorentz group. 
 
 - date: 23/07/25
   content: | 
-    [PR656](https://github.com/HEPLean/PhysLean/pull/656)
+    [PR656](https://github.com/lean-phys-community/PhysLean/pull/656)
     proves properties of the electric field of a point charge in 1d. 
 
 - date: 22/07/25
   content: | 
-    [PR604](https://github.com/HEPLean/PhysLean/pull/604)
+    [PR604](https://github.com/lean-phys-community/PhysLean/pull/604)
     improves the API around and proves results related to the classical harmonic oscillator.
 
 - date: 22/07/25
   content: | 
-    [PR654](https://github.com/HEPLean/PhysLean/pull/654)
+    [PR654](https://github.com/lean-phys-community/PhysLean/pull/654)
     adds derivatives of distributions to PhysLean. 
 
 - date: 21/07/25
   content: | 
-    [PR653](https://github.com/HEPLean/PhysLean/pull/653)
+    [PR653](https://github.com/lean-phys-community/PhysLean/pull/653)
     adds a constructor of distributions to PhysLean based on boundedness, making it easier 
     for physicists to define distributions. 
 
 - date: 17/07/25
   content: | 
-    [PR651](https://github.com/HEPLean/PhysLean/pull/651)
+    [PR651](https://github.com/lean-phys-community/PhysLean/pull/651)
     generalizes charges in the SU(5) GUT model in F-theory (part of string theory). 
 
 - date: 17/07/25
@@ -127,74 +127,74 @@
 
 - date: 15/07/25
   content: | 
-    [PR648](https://github.com/HEPLean/PhysLean/pull/648)
+    [PR648](https://github.com/lean-phys-community/PhysLean/pull/648)
     starts to improve the API around `Space` in PhysLean, as a gateway into the project.
 
 - date: 15/07/25
   content: | 
-    [PR645](https://github.com/HEPLean/PhysLean/pull/645)
+    [PR645](https://github.com/lean-phys-community/PhysLean/pull/645)
     adds the `@[pseudo]` attribute to theorems and definitions, marking results which 
     depend transitively on the `native_decide` tactic, which is fast, but less trustworthy.
 
 - date: 13/07/25
   content: | 
-    [PR644](https://github.com/HEPLean/PhysLean/pull/644)
+    [PR644](https://github.com/lean-phys-community/PhysLean/pull/644)
     starts API around distributions to PhysLean, allowing phycisists to work with 
     e.g. diract delta functions in the same way as they would in a physics textbook.
 
 - date: 12/07/25
   content: | 
-    [PR643](https://github.com/HEPLean/PhysLean/pull/643)
+    [PR643](https://github.com/lean-phys-community/PhysLean/pull/643)
     removes all universes from PhysLean, simplifying the codebase.  
 
 - date: 11/07/25
   content: | 
-    [PR641](https://github.com/HEPLean/PhysLean/pull/641)
+    [PR641](https://github.com/lean-phys-community/PhysLean/pull/641)
     improves documentation within around the 'Space' API.
 
 - date: 11/07/25
   content: | 
-    [PR640](https://github.com/HEPLean/PhysLean/pull/640)
+    [PR640](https://github.com/lean-phys-community/PhysLean/pull/640)
     defines the canonical ensemble in statistical mechanics for an infinite space of microstates.
 
 - date: 10/07/25
   content: | 
-    [PR639](https://github.com/HEPLean/PhysLean/pull/639)
+    [PR639](https://github.com/lean-phys-community/PhysLean/pull/639)
     proves some properties of canonical ensembles in statistical mechanics, with 
     a finite space of microstates. 
 
 
 - date: 09/07/25
   content: | 
-    [PR634](https://github.com/HEPLean/PhysLean/pull/638)
+    [PR634](https://github.com/lean-phys-community/PhysLean/pull/638)
     proves the generalized eigenfunctions of the momentum operator in 1d quantum mechanics,
     are plane waves, and the generalized eigenfunctions of the position operator are Dirac delta functions.
 
 - date: 04/07/25
   content: | 
-    [PR633](https://github.com/HEPLean/PhysLean/pull/633)
+    [PR633](https://github.com/lean-phys-community/PhysLean/pull/633)
     adds the momentum operator for 1d quantum mechanical system as an unbounded operator.
 
 - date: 04/07/25
   content: | 
-    [PR632](https://github.com/HEPLean/PhysLean/pull/632)
+    [PR632](https://github.com/lean-phys-community/PhysLean/pull/632)
     updates index notation within PhysLean making it associated with an instance, 
     this also updates API around Pauli matrices. 
 
 - date: 01/07/25
   content: | 
-    [PR629](https://github.com/HEPLean/PhysLean/pull/629)
+    [PR629](https://github.com/lean-phys-community/PhysLean/pull/629)
     moved PhysLean to the new stable version of lean 4.21.0.
 
 - date: 30/06/25
   content: | 
-    [PR618](https://github.com/HEPLean/PhysLean/pull/618)
+    [PR618](https://github.com/lean-phys-community/PhysLean/pull/618)
     adds variational calculus to PhysLean, derives the Euler-Lagrange equation, 
     and Hamilton's equations of motion.
 
 - date: 27/06/25
   content: | 
-    [PR627](https://github.com/HEPLean/PhysLean/pull/627)
+    [PR627](https://github.com/lean-phys-community/PhysLean/pull/627)
     adds the `@[sorryful]` attribute allowing theorems and definitions to be marked as incomplete, 
     but still included in the project.
 

@@ -1,0 +1,39 @@
+
+
+- name: Léo Lessa 
+  summary : | 
+    No summary available.
+
+- name: Alex Meiburg
+  summary : |
+    Alex is a postdoctoral fellow at the Perimeter Institute and University of Waterloo's IQC. 
+    He has a PhD in condensed matter theory at the University of California, Santa Barbara. 
+    He's been contributing to Mathlib since 2023.
+
+- name: Daniel Morrison 
+  summary : | 
+    Daniel is a Lean contractor for Harmonic. They have a PhD in symplectic geometry 
+    from the University of California, Irvine and has been working with Lean formalization since 2023.
+
+- name: Zhi Kai Pong 
+  summary : |
+    Zhi Kai is an optical engineer with a PhD in femtosecond laser direct writing from the University of Oxford. 
+    He has been involved in the formalization community since 2025.
+
+
+- name: Rodolfo Soldati
+  summary : | 
+    Rodolfo is a postdoctoral fellow at the Institute for Quantum Computing, Waterloo, and 
+    associate member at the Perimeter Institute. He has a joint PhD in quantum thermodynamics from the 
+    Universities of Stuttgart, and of São Paulo. Since 2024, he has been involved in formalizing the 
+    physics of quantum information in Lean.
+    
+- name: Joseph Tooby-Smith
+  summary : | 
+    Joseph is lecturer (Assistant Professor) in computer science at the University of Bath. 
+    He has a PhD in theoretical particle physics at the University of Cambridge. 
+    He has been in the formalization community since 2023.
+
+- name: Winston Yin
+  summary : |
+    No summary available.
