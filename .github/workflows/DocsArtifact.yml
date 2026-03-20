@@ -20,7 +20,7 @@ jobs:
         - name: Checkout project
           uses: actions/checkout@v4
           with:
-            repository: HEPLean/PhysLean
+            repository: lean-phys-community/PhysLean
             fetch-depth: 0
   
         - name: Install Graphviz

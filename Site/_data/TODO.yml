@@ -48,7 +48,7 @@ Category:
 TODOItem:
 
   - file: PhysLean.ClassicalMechanics.HarmonicOscillator.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L130
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L130
     line: 130
     isInformalDef: false
     isInformalLemma: false
@@ -62,7 +62,7 @@ TODOItem:
         is the potential energy. 
 
   - file: PhysLean.ClassicalMechanics.HarmonicOscillator.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L137
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L137
     line: 137
     isInformalDef: false
     isInformalLemma: false
@@ -75,7 +75,7 @@ TODOItem:
       The force on the classical harmonic oscillator is `- k x`. 
 
   - file: PhysLean.ClassicalMechanics.HarmonicOscillator.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L141
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L141
     line: 141
     isInformalDef: false
     isInformalLemma: false
@@ -89,7 +89,7 @@ TODOItem:
         defined through the Euler-Lagrange equations. 
 
   - file: PhysLean.ClassicalMechanics.HarmonicOscillator.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L148
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L148
     line: 148
     isInformalDef: false
     isInformalLemma: false
@@ -102,7 +102,7 @@ TODOItem:
       The equations of motion are satisfied if and only if Newton's second law holds. 
 
   - file: PhysLean.ClassicalMechanics.HarmonicOscillator.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L152
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L152
     line: 152
     isInformalDef: false
     isInformalLemma: false
@@ -119,7 +119,7 @@ TODOItem:
         - This is not expected to be easy to define. 
 
   - file: PhysLean.ClassicalMechanics.HarmonicOscillator.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L162
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L162
     line: 162
     isInformalDef: false
     isInformalLemma: false
@@ -137,7 +137,7 @@ TODOItem:
       
 
   - file: PhysLean.ClassicalMechanics.HarmonicOscillator.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L171
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Basic.lean#L171
     line: 171
     isInformalDef: false
     isInformalLemma: false
@@ -150,7 +150,7 @@ TODOItem:
       Create a new folder for the damped harmonic oscillator, initially as a place-holder.
 
   - file: PhysLean.ClassicalMechanics.HarmonicOscillator.Solution
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Solution.lean#L36
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Solution.lean#L36
     line: 36
     isInformalDef: false
     isInformalLemma: false
@@ -168,7 +168,7 @@ TODOItem:
       to make this possible).
 
   - file: PhysLean.ClassicalMechanics.HarmonicOscillator.Solution
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Solution.lean#L284
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Solution.lean#L284
     line: 284
     isInformalDef: false
     isInformalLemma: false
@@ -182,7 +182,7 @@ TODOItem:
         it's initial position and velocity.
 
   - file: PhysLean.ClassicalMechanics.HarmonicOscillator.Solution
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Solution.lean#L287
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Solution.lean#L287
     line: 287
     isInformalDef: false
     isInformalLemma: false
@@ -196,7 +196,7 @@ TODOItem:
         which it passes through zero.
 
   - file: PhysLean.ClassicalMechanics.HarmonicOscillator.Solution
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Solution.lean#L290
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Solution.lean#L290
     line: 290
     isInformalDef: false
     isInformalLemma: false
@@ -210,7 +210,7 @@ TODOItem:
         zero.
 
   - file: PhysLean.ClassicalMechanics.HarmonicOscillator.Solution
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Solution.lean#L293
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Solution.lean#L293
     line: 293
     isInformalDef: false
     isInformalLemma: false
@@ -223,7 +223,7 @@ TODOItem:
       The solutions for any initial condition solve the equation of motion. 
 
   - file: PhysLean.ClassicalMechanics.HarmonicOscillator.Solution
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Solution.lean#L297
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/HarmonicOscillator/Solution.lean#L297
     line: 297
     isInformalDef: false
     isInformalLemma: false
@@ -241,7 +241,7 @@ TODOItem:
         - `EquationOfMotion` needs defining before this can be proved. 
 
   - file: PhysLean.ClassicalMechanics.WaveEquation.HarmonicWave
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/WaveEquation/HarmonicWave.lean#L35
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/WaveEquation/HarmonicWave.lean#L35
     line: 35
     isInformalDef: false
     isInformalLemma: false
@@ -255,7 +255,7 @@ TODOItem:
           can be rotated to `EuclideanSpace.single 2 1` if only one wave is concerened.
 
   - file: PhysLean.ClassicalMechanics.WaveEquation.HarmonicWave
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/ClassicalMechanics/WaveEquation/HarmonicWave.lean#L86
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/ClassicalMechanics/WaveEquation/HarmonicWave.lean#L86
     line: 86
     isInformalDef: false
     isInformalLemma: false
@@ -269,7 +269,7 @@ TODOItem:
           as a superposition of harmonic plane waves via Fourier integral.
 
   - file: PhysLean.CondensedMatter.TightBindingChain.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/CondensedMatter/TightBindingChain/Basic.lean#L28
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/CondensedMatter/TightBindingChain/Basic.lean#L28
     line: 28
     isInformalDef: false
     isInformalLemma: false
@@ -281,10 +281,10 @@ TODOItem:
     content: |
       Prove results related to the one-dimensional tight binding chain.
         This is related to the following issue/feature-request:
-        https://github.com/HEPLean/PhysLean/issues/523 
+        https://github.com/lean-phys-community/PhysLean/issues/523 
 
   - file: PhysLean.CondensedMatter.TightBindingChain.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/CondensedMatter/TightBindingChain/Basic.lean#L97
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/CondensedMatter/TightBindingChain/Basic.lean#L97
     line: 97
     isInformalDef: false
     isInformalLemma: false
@@ -297,7 +297,7 @@ TODOItem:
       The hamiltonian of the tight binding chain is hermitian. 
 
   - file: PhysLean.CondensedMatter.TightBindingChain.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/CondensedMatter/TightBindingChain/Basic.lean#L303
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/CondensedMatter/TightBindingChain/Basic.lean#L303
     line: 303
     isInformalDef: false
     isInformalLemma: false
@@ -310,7 +310,7 @@ TODOItem:
       The energy eigenstates of the tight binding chain are orthogonal. 
 
   - file: PhysLean.Cosmology.FLRW.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L24
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L24
     line: 24
     isInformalDef: false
     isInformalLemma: false
@@ -326,7 +326,7 @@ TODOItem:
       - `Saddle (k : ℝ)` 
 
   - file: PhysLean.Cosmology.FLRW.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L35
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L35
     line: 35
     isInformalDef: false
     isInformalLemma: false
@@ -344,7 +344,7 @@ TODOItem:
       Semiformal implementation note: There is likely a better name for this function. 
 
   - file: PhysLean.Cosmology.FLRW.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L38
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L38
     line: 38
     isInformalDef: false
     isInformalLemma: true
@@ -357,7 +357,7 @@ TODOItem:
       The limit of `S (Saddle k) r` as `k → ∞` is equal to `S (Flat) r`. 
 
   - file: PhysLean.Cosmology.FLRW.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L43
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L43
     line: 43
     isInformalDef: false
     isInformalLemma: true
@@ -370,7 +370,7 @@ TODOItem:
       The limit of `S (Sphere k) r` as `k → ∞` is equal to `S (Flat) r`. 
 
   - file: PhysLean.Cosmology.FLRW.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L50
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L50
     line: 50
     isInformalDef: false
     isInformalLemma: false
@@ -390,7 +390,7 @@ TODOItem:
       
 
   - file: PhysLean.Cosmology.FLRW.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L62
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L62
     line: 62
     isInformalDef: true
     isInformalLemma: false
@@ -408,7 +408,7 @@ TODOItem:
       Semiformal implementation note: Implement also scoped notation. 
 
   - file: PhysLean.Cosmology.FLRW.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L72
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L72
     line: 72
     isInformalDef: true
     isInformalLemma: false
@@ -426,7 +426,7 @@ TODOItem:
       Semiformal implementation note: Implement also scoped notation. 
 
   - file: PhysLean.Cosmology.FLRW.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L82
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L82
     line: 82
     isInformalDef: false
     isInformalLemma: true
@@ -439,7 +439,7 @@ TODOItem:
       The deceleration parameter is equal to `- (1 + (dₜ H)/H^2)`. 
 
   - file: PhysLean.Cosmology.FLRW.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L87
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L87
     line: 87
     isInformalDef: false
     isInformalLemma: true
@@ -452,7 +452,7 @@ TODOItem:
       The time evolution of the hubble parameter is equal to `dₜ H = - H^2 (1 + q)`. 
 
   - file: PhysLean.Cosmology.FLRW.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L92
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Cosmology/FLRW/Basic.lean#L92
     line: 92
     isInformalDef: false
     isInformalLemma: true
@@ -466,7 +466,7 @@ TODOItem:
       there exists a time where the deceleration parameter is less then `-1`. 
 
   - file: PhysLean.Electromagnetism.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Electromagnetism/Basic.lean#L38
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Electromagnetism/Basic.lean#L38
     line: 38
     isInformalDef: false
     isInformalLemma: false
@@ -483,7 +483,7 @@ TODOItem:
         https://leanprover.zulipchat.com/#narrow/channel/479953-PhysLean/topic/Maxwell's.20Equations
 
   - file: PhysLean.Electromagnetism.FieldStrength.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Electromagnetism/FieldStrength/Basic.lean#L443
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Electromagnetism/FieldStrength/Basic.lean#L443
     line: 443
     isInformalDef: false
     isInformalLemma: false
@@ -496,7 +496,7 @@ TODOItem:
       Define the dual field strength.
 
   - file: PhysLean.Electromagnetism.LorentzAction
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Electromagnetism/LorentzAction.lean#L23
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Electromagnetism/LorentzAction.lean#L23
     line: 23
     isInformalDef: false
     isInformalLemma: false
@@ -509,7 +509,7 @@ TODOItem:
       The Lorentz action on the electric and magnetic fields. 
 
   - file: PhysLean.Electromagnetism.LorentzAction
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Electromagnetism/LorentzAction.lean#L31
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Electromagnetism/LorentzAction.lean#L31
     line: 31
     isInformalDef: false
     isInformalLemma: false
@@ -523,7 +523,7 @@ TODOItem:
       group action. 
 
   - file: PhysLean.Electromagnetism.MaxwellEquations
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Electromagnetism/MaxwellEquations.lean#L57
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Electromagnetism/MaxwellEquations.lean#L57
     line: 57
     isInformalDef: false
     isInformalLemma: false
@@ -537,7 +537,7 @@ TODOItem:
         then the electric field is also spherically symmetric.
 
   - file: PhysLean.Mathematics.FDerivCurry
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Mathematics/FDerivCurry.lean#L89
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Mathematics/FDerivCurry.lean#L89
     line: 89
     isInformalDef: false
     isInformalLemma: false
@@ -551,7 +551,7 @@ TODOItem:
           #24056 in Mathlib has gone through.
 
   - file: PhysLean.Mathematics.LinearMaps
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Mathematics/LinearMaps.lean#L17
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Mathematics/LinearMaps.lean#L17
     line: 17
     isInformalDef: false
     isInformalLemma: false
@@ -564,7 +564,7 @@ TODOItem:
       Replace the definitions in this file with Mathlib definitions.
 
   - file: PhysLean.Mathematics.VariationalCalculus.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Mathematics/VariationalCalculus/Basic.lean#L47
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Mathematics/VariationalCalculus/Basic.lean#L47
     line: 47
     isInformalDef: false
     isInformalLemma: false
@@ -581,7 +581,7 @@ TODOItem:
       construct `g` test function with support on the neighborhood of `x₀` such that `⟪f x, g x⟫ ≥ 0`. 
 
   - file: PhysLean.Meta.TransverseTactics
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Meta/TransverseTactics.lean#L78
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Meta/TransverseTactics.lean#L78
     line: 78
     isInformalDef: false
     isInformalLemma: false
@@ -595,7 +595,7 @@ TODOItem:
         This leads to memory problems when using `transverseTactics` directly in loops.
 
   - file: PhysLean.Particles.BeyondTheStandardModel.GeorgiGlashow.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/GeorgiGlashow/Basic.lean#L20
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/GeorgiGlashow/Basic.lean#L20
     line: 20
     isInformalDef: true
     isInformalLemma: false
@@ -608,7 +608,7 @@ TODOItem:
       The gauge group of the Georgi-Glashow model, i.e., `SU(5)`. 
 
   - file: PhysLean.Particles.BeyondTheStandardModel.GeorgiGlashow.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/GeorgiGlashow/Basic.lean#L25
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/GeorgiGlashow/Basic.lean#L25
     line: 25
     isInformalDef: true
     isInformalLemma: false
@@ -626,7 +626,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.GeorgiGlashow.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/GeorgiGlashow/Basic.lean#L35
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/GeorgiGlashow/Basic.lean#L35
     line: 35
     isInformalDef: false
     isInformalLemma: true
@@ -642,7 +642,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.GeorgiGlashow.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/GeorgiGlashow/Basic.lean#L43
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/GeorgiGlashow/Basic.lean#L43
     line: 43
     isInformalDef: true
     isInformalLemma: false
@@ -657,7 +657,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.PatiSalam.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L25
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L25
     line: 25
     isInformalDef: true
     isInformalLemma: false
@@ -670,7 +670,7 @@ TODOItem:
       The gauge group of the Pati-Salam model (unquotiented by ℤ₂), i.e., `SU(4) × SU(2) × SU(2)`. 
 
   - file: PhysLean.Particles.BeyondTheStandardModel.PatiSalam.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L30
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L30
     line: 30
     isInformalDef: true
     isInformalLemma: false
@@ -688,7 +688,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.PatiSalam.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L40
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L40
     line: 40
     isInformalDef: false
     isInformalLemma: true
@@ -704,7 +704,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.PatiSalam.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L48
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L48
     line: 48
     isInformalDef: true
     isInformalLemma: false
@@ -719,7 +719,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.PatiSalam.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L55
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L55
     line: 55
     isInformalDef: true
     isInformalLemma: false
@@ -732,7 +732,7 @@ TODOItem:
       The equivalence between `GaugeGroupI` and `Spin(6) × Spin(4)`. 
 
   - file: PhysLean.Particles.BeyondTheStandardModel.PatiSalam.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L60
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L60
     line: 60
     isInformalDef: true
     isInformalLemma: false
@@ -749,7 +749,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.PatiSalam.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L69
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L69
     line: 69
     isInformalDef: true
     isInformalLemma: false
@@ -766,7 +766,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.PatiSalam.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L78
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L78
     line: 78
     isInformalDef: false
     isInformalLemma: true
@@ -781,7 +781,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.PatiSalam.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L85
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/PatiSalam/Basic.lean#L85
     line: 85
     isInformalDef: true
     isInformalLemma: false
@@ -795,7 +795,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.RHN.AnomalyCancellation.Ordinary.DimSevenPlane
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/RHN/AnomalyCancellation/Ordinary/DimSevenPlane.lean#L140
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/RHN/AnomalyCancellation/Ordinary/DimSevenPlane.lean#L140
     line: 140
     isInformalDef: false
     isInformalLemma: false
@@ -809,7 +809,7 @@ TODOItem:
         use only `B : Fin 7 → (SM 3).Charges`. 
 
   - file: PhysLean.Particles.BeyondTheStandardModel.Spin10.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/Spin10/Basic.lean#L19
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/Spin10/Basic.lean#L19
     line: 19
     isInformalDef: true
     isInformalLemma: false
@@ -822,7 +822,7 @@ TODOItem:
       The gauge group of the Spin(10) model, i.e., the group `Spin(10)`. 
 
   - file: PhysLean.Particles.BeyondTheStandardModel.Spin10.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/Spin10/Basic.lean#L24
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/Spin10/Basic.lean#L24
     line: 24
     isInformalDef: true
     isInformalLemma: false
@@ -841,7 +841,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.Spin10.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/Spin10/Basic.lean#L35
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/Spin10/Basic.lean#L35
     line: 35
     isInformalDef: true
     isInformalLemma: false
@@ -858,7 +858,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.Spin10.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/Spin10/Basic.lean#L44
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/Spin10/Basic.lean#L44
     line: 44
     isInformalDef: true
     isInformalLemma: false
@@ -873,7 +873,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.Spin10.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/Spin10/Basic.lean#L51
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/Spin10/Basic.lean#L51
     line: 51
     isInformalDef: true
     isInformalLemma: false
@@ -888,7 +888,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.BeyondTheStandardModel.Spin10.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/Spin10/Basic.lean#L58
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/Spin10/Basic.lean#L58
     line: 58
     isInformalDef: false
     isInformalLemma: true
@@ -901,7 +901,7 @@ TODOItem:
       The inclusion `inclSM` is equal to the inclusion `inclSMThruGeorgiGlashow`. 
 
   - file: PhysLean.Particles.BeyondTheStandardModel.TwoHDM.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/TwoHDM/Basic.lean#L25
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/TwoHDM/Basic.lean#L25
     line: 25
     isInformalDef: false
     isInformalLemma: false
@@ -916,7 +916,7 @@ TODOItem:
         Then `toFun` should be renamed to `potential`.
 
   - file: PhysLean.Particles.BeyondTheStandardModel.TwoHDM.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/TwoHDM/Basic.lean#L151
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/TwoHDM/Basic.lean#L151
     line: 151
     isInformalDef: false
     isInformalLemma: false
@@ -931,7 +931,7 @@ TODOItem:
         https://arxiv.org/pdf/hep-ph/0605184.
 
   - file: PhysLean.Particles.BeyondTheStandardModel.TwoHDM.GaugeOrbits
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/TwoHDM/GaugeOrbits.lean#L87
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/TwoHDM/GaugeOrbits.lean#L87
     line: 87
     isInformalDef: false
     isInformalLemma: true
@@ -945,7 +945,7 @@ TODOItem:
       Higgs fields. 
 
   - file: PhysLean.Particles.BeyondTheStandardModel.TwoHDM.GaugeOrbits
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/TwoHDM/GaugeOrbits.lean#L93
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/BeyondTheStandardModel/TwoHDM/GaugeOrbits.lean#L93
     line: 93
     isInformalDef: false
     isInformalLemma: true
@@ -963,7 +963,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.StandardModel.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L15
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L15
     line: 15
     isInformalDef: false
     isInformalLemma: false
@@ -976,7 +976,7 @@ TODOItem:
       Redefine the gauge group as a quotient of SU(3) x SU(2) x U(1) by a subgroup of ℤ₆.
 
   - file: PhysLean.Particles.StandardModel.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L29
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L29
     line: 29
     isInformalDef: false
     isInformalLemma: false
@@ -994,7 +994,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.StandardModel.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L37
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L37
     line: 37
     isInformalDef: false
     isInformalLemma: false
@@ -1011,7 +1011,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.StandardModel.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L44
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L44
     line: 44
     isInformalDef: true
     isInformalLemma: false
@@ -1029,7 +1029,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.StandardModel.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L54
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L54
     line: 54
     isInformalDef: true
     isInformalLemma: false
@@ -1046,7 +1046,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.StandardModel.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L63
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L63
     line: 63
     isInformalDef: true
     isInformalLemma: false
@@ -1064,7 +1064,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.StandardModel.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L73
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L73
     line: 73
     isInformalDef: true
     isInformalLemma: false
@@ -1081,7 +1081,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.StandardModel.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L97
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L97
     line: 97
     isInformalDef: true
     isInformalLemma: false
@@ -1099,7 +1099,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.StandardModel.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L114
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L114
     line: 114
     isInformalDef: false
     isInformalLemma: true
@@ -1112,7 +1112,7 @@ TODOItem:
       The gauge group `GaugeGroupI` is a Lie group. 
 
   - file: PhysLean.Particles.StandardModel.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L119
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L119
     line: 119
     isInformalDef: false
     isInformalLemma: true
@@ -1125,7 +1125,7 @@ TODOItem:
       For every `q` in `GaugeGroupQuot` the group `GaugeGroup q` is a Lie group. 
 
   - file: PhysLean.Particles.StandardModel.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L124
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L124
     line: 124
     isInformalDef: true
     isInformalLemma: false
@@ -1138,7 +1138,7 @@ TODOItem:
       The trivial principal bundle over SpaceTime with structure group `GaugeGroupI`. 
 
   - file: PhysLean.Particles.StandardModel.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L129
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/Basic.lean#L129
     line: 129
     isInformalDef: true
     isInformalLemma: false
@@ -1151,7 +1151,7 @@ TODOItem:
       A global section of `gaugeBundleI`. 
 
   - file: PhysLean.Particles.StandardModel.HiggsBoson.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/Basic.lean#L81
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/Basic.lean#L81
     line: 81
     isInformalDef: false
     isInformalLemma: false
@@ -1164,7 +1164,7 @@ TODOItem:
       Make `HiggsBundle` an associated bundle.
 
   - file: PhysLean.Particles.StandardModel.HiggsBoson.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/Basic.lean#L179
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/Basic.lean#L179
     line: 179
     isInformalDef: false
     isInformalLemma: true
@@ -1179,7 +1179,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.StandardModel.HiggsBoson.GaugeAction
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L15
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L15
     line: 15
     isInformalDef: false
     isInformalLemma: false
@@ -1193,7 +1193,7 @@ TODOItem:
         to include the full action of the gauge group.
 
   - file: PhysLean.Particles.StandardModel.HiggsBoson.GaugeAction
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L220
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L220
     line: 220
     isInformalDef: false
     isInformalLemma: true
@@ -1206,7 +1206,7 @@ TODOItem:
       There exists a `g` in `GaugeGroupI` such that `rep g φ = φ'` iff `‖φ‖ = ‖φ'‖`. 
 
   - file: PhysLean.Particles.StandardModel.HiggsBoson.GaugeAction
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L225
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L225
     line: 225
     isInformalDef: false
     isInformalLemma: true
@@ -1223,7 +1223,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.StandardModel.HiggsBoson.GaugeAction
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L234
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L234
     line: 234
     isInformalDef: false
     isInformalLemma: true
@@ -1239,7 +1239,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.StandardModel.HiggsBoson.GaugeAction
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L244
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L244
     line: 244
     isInformalDef: false
     isInformalLemma: false
@@ -1252,7 +1252,7 @@ TODOItem:
       Define the global gauge action on HiggsField.
 
   - file: PhysLean.Particles.StandardModel.HiggsBoson.GaugeAction
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L245
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L245
     line: 245
     isInformalDef: false
     isInformalLemma: false
@@ -1265,7 +1265,7 @@ TODOItem:
       Prove `⟪φ1, φ2⟫_H` invariant under the global gauge action. (norm_map_of_mem_unitary)
 
   - file: PhysLean.Particles.StandardModel.HiggsBoson.GaugeAction
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L246
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L246
     line: 246
     isInformalDef: false
     isInformalLemma: false
@@ -1278,7 +1278,7 @@ TODOItem:
       Prove invariance of potential under global gauge action.
 
   - file: PhysLean.Particles.StandardModel.HiggsBoson.GaugeAction
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L256
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L256
     line: 256
     isInformalDef: true
     isInformalLemma: false
@@ -1291,7 +1291,7 @@ TODOItem:
       The action of `gaugeTransformI` on `HiggsField` acting pointwise through `HiggsVec.rep`. 
 
   - file: PhysLean.Particles.StandardModel.HiggsBoson.GaugeAction
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L261
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L261
     line: 261
     isInformalDef: false
     isInformalLemma: true
@@ -1306,7 +1306,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.StandardModel.HiggsBoson.GaugeAction
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L268
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/GaugeAction.lean#L268
     line: 268
     isInformalDef: false
     isInformalLemma: true
@@ -1321,7 +1321,7 @@ TODOItem:
       
 
   - file: PhysLean.Particles.StandardModel.HiggsBoson.Potential
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/Potential.lean#L360
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Particles/StandardModel/HiggsBoson/Potential.lean#L360
     line: 360
     isInformalDef: false
     isInformalLemma: true
@@ -1336,7 +1336,7 @@ TODOItem:
       `- P.μ2 * ‖φ‖_H^2 x` is bounded below iff `P.μ2 ≤ 0`. 
 
   - file: PhysLean.QFT.AnomalyCancellation.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/QFT/AnomalyCancellation/Basic.lean#L30
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/QFT/AnomalyCancellation/Basic.lean#L30
     line: 30
     isInformalDef: false
     isInformalLemma: false
@@ -1351,7 +1351,7 @@ TODOItem:
         definition.
 
   - file: PhysLean.QFT.AnomalyCancellation.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/QFT/AnomalyCancellation/Basic.lean#L33
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/QFT/AnomalyCancellation/Basic.lean#L33
     line: 33
     isInformalDef: false
     isInformalLemma: false
@@ -1365,7 +1365,7 @@ TODOItem:
         Link such an approach to the approach here.
 
   - file: PhysLean.QFT.PerturbationTheory.FieldOpFreeAlgebra.NormalOrder
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/QFT/PerturbationTheory/FieldOpFreeAlgebra/NormalOrder.lean#L399
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/QFT/PerturbationTheory/FieldOpFreeAlgebra/NormalOrder.lean#L399
     line: 399
     isInformalDef: false
     isInformalLemma: false
@@ -1378,7 +1378,7 @@ TODOItem:
       Split the following two lemmas up into smaller parts.
 
   - file: PhysLean.QFT.PerturbationTheory.WickAlgebra.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/QFT/PerturbationTheory/WickAlgebra/Basic.lean#L277
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/QFT/PerturbationTheory/WickAlgebra/Basic.lean#L277
     line: 277
     isInformalDef: false
     isInformalLemma: false
@@ -1392,7 +1392,7 @@ TODOItem:
         We should either 1) split it up into smaller lemmas or 2) Put more comments into the proof.
 
   - file: PhysLean.QFT.PerturbationTheory.WickContraction.Perm
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/QFT/PerturbationTheory/WickContraction/Perm.lean#L64
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/QFT/PerturbationTheory/WickContraction/Perm.lean#L64
     line: 64
     isInformalDef: false
     isInformalLemma: false
@@ -1408,7 +1408,7 @@ TODOItem:
       Implementation note: Please contact JTS before attempting this. 
 
   - file: PhysLean.QFT.PerturbationTheory.WickContraction.Perm
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/QFT/PerturbationTheory/WickContraction/Perm.lean#L70
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/QFT/PerturbationTheory/WickContraction/Perm.lean#L70
     line: 70
     isInformalDef: false
     isInformalLemma: false
@@ -1424,7 +1424,7 @@ TODOItem:
       Implementation note: Please contact JTS before attempting this. 
 
   - file: PhysLean.QFT.QED.AnomalyCancellation.BasisLinear
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/QFT/QED/AnomalyCancellation/BasisLinear.lean#L78
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/QFT/QED/AnomalyCancellation/BasisLinear.lean#L78
     line: 78
     isInformalDef: false
     isInformalLemma: false
@@ -1438,7 +1438,7 @@ TODOItem:
         `Finsupp.equivFunOnFinite` with `Finsupp.linearEquivFunOnFinite`. Investigate this.
 
   - file: PhysLean.QFT.QED.AnomalyCancellation.Even.BasisLinear
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/QFT/QED/AnomalyCancellation/Even/BasisLinear.lean#L624
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/QFT/QED/AnomalyCancellation/Even/BasisLinear.lean#L624
     line: 624
     isInformalDef: false
     isInformalLemma: false
@@ -1451,7 +1451,7 @@ TODOItem:
       Replace the definition of `join` with a Mathlib definition, most likely `Sum.elim`.
 
   - file: PhysLean.QFT.QED.AnomalyCancellation.Odd.BasisLinear
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/QFT/QED/AnomalyCancellation/Odd/BasisLinear.lean#L631
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/QFT/QED/AnomalyCancellation/Odd/BasisLinear.lean#L631
     line: 631
     isInformalDef: false
     isInformalLemma: false
@@ -1464,7 +1464,7 @@ TODOItem:
       Replace the definition of `join` with a Mathlib definition, most likely `Sum.elim`.
 
   - file: PhysLean.QFT.QED.AnomalyCancellation.Permutations
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/QFT/QED/AnomalyCancellation/Permutations.lean#L91
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/QFT/QED/AnomalyCancellation/Permutations.lean#L91
     line: 91
     isInformalDef: false
     isInformalLemma: false
@@ -1477,7 +1477,7 @@ TODOItem:
       Remove `pairSwap`, and use the Mathlib defined function `Equiv.swap` instead.
 
   - file: PhysLean.QuantumMechanics.FiniteTarget.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/QuantumMechanics/FiniteTarget/Basic.lean#L26
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/QuantumMechanics/FiniteTarget/Basic.lean#L26
     line: 26
     isInformalDef: false
     isInformalLemma: false
@@ -1491,7 +1491,7 @@ TODOItem:
         the hamiltonian instead of a matrix.
 
   - file: PhysLean.QuantumMechanics.FiniteTarget.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/QuantumMechanics/FiniteTarget/Basic.lean#L54
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/QuantumMechanics/FiniteTarget/Basic.lean#L54
     line: 54
     isInformalDef: false
     isInformalLemma: false
@@ -1504,7 +1504,7 @@ TODOItem:
       Define a smooth structure on `FiniteTarget`.
 
   - file: PhysLean.QuantumMechanics.OneDimension.HarmonicOscillator.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/QuantumMechanics/OneDimension/HarmonicOscillator/Basic.lean#L136
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/QuantumMechanics/OneDimension/HarmonicOscillator/Basic.lean#L136
     line: 136
     isInformalDef: false
     isInformalLemma: false
@@ -1517,7 +1517,7 @@ TODOItem:
       The momentum operator should be moved to a more general file.
 
   - file: PhysLean.Relativity.Bispinors.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Bispinors/Basic.lean#L57
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Bispinors/Basic.lean#L57
     line: 57
     isInformalDef: false
     isInformalLemma: true
@@ -1533,7 +1533,7 @@ TODOItem:
       
 
   - file: PhysLean.Relativity.Bispinors.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Bispinors/Basic.lean#L65
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Bispinors/Basic.lean#L65
     line: 65
     isInformalDef: false
     isInformalLemma: true
@@ -1549,7 +1549,7 @@ TODOItem:
       
 
   - file: PhysLean.Relativity.CliffordAlgebra
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/CliffordAlgebra.lean#L16
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/CliffordAlgebra.lean#L16
     line: 16
     isInformalDef: false
     isInformalLemma: false
@@ -1562,7 +1562,7 @@ TODOItem:
       Prove algebra generated by gamma matrices is isomorphic to Clifford algebra.
 
   - file: PhysLean.Relativity.Lorentz.Algebra.Basis
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Algebra/Basis.lean#L19
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Algebra/Basis.lean#L19
     line: 19
     isInformalDef: false
     isInformalLemma: false
@@ -1575,7 +1575,7 @@ TODOItem:
       Define the standard basis of the Lorentz algebra.
 
   - file: PhysLean.Relativity.Lorentz.Group.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Basic.lean#L21
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Basic.lean#L21
     line: 21
     isInformalDef: false
     isInformalLemma: false
@@ -1588,7 +1588,7 @@ TODOItem:
       Define the Lie group structure on the Lorentz group.
 
   - file: PhysLean.Relativity.Lorentz.Group.Boosts.Generalized
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Boosts/Generalized.lean#L190
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Boosts/Generalized.lean#L190
     line: 190
     isInformalDef: false
     isInformalLemma: false
@@ -1602,7 +1602,7 @@ TODOItem:
         refactoring this file.
 
   - file: PhysLean.Relativity.Lorentz.Group.Boosts.Generalized
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Boosts/Generalized.lean#L196
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Boosts/Generalized.lean#L196
     line: 196
     isInformalDef: false
     isInformalLemma: false
@@ -1615,7 +1615,7 @@ TODOItem:
       Show that generalised boosts are in the restricted Lorentz group.
 
   - file: PhysLean.Relativity.Lorentz.Group.Orthochronous
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Orthochronous.lean#L15
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Orthochronous.lean#L15
     line: 15
     isInformalDef: false
     isInformalLemma: false
@@ -1628,7 +1628,7 @@ TODOItem:
       Prove topological properties of the Orthochronous Lorentz Group.
 
   - file: PhysLean.Relativity.Lorentz.Group.Restricted
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Restricted.lean#L15
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Restricted.lean#L15
     line: 15
     isInformalDef: false
     isInformalLemma: false
@@ -1642,7 +1642,7 @@ TODOItem:
         combiniation of a boost and a rotation.
 
   - file: PhysLean.Relativity.Lorentz.Group.Restricted
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Restricted.lean#L17
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Restricted.lean#L17
     line: 17
     isInformalDef: false
     isInformalLemma: false
@@ -1656,7 +1656,7 @@ TODOItem:
         of the Lorentz group.
 
   - file: PhysLean.Relativity.Lorentz.Group.Rotations
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Rotations.lean#L14
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Lorentz/Group/Rotations.lean#L14
     line: 14
     isInformalDef: false
     isInformalLemma: false
@@ -1669,7 +1669,7 @@ TODOItem:
       Generalize the inclusion of rotations into LorentzGroup to arbitrary dimension.
 
   - file: PhysLean.Relativity.SL2C.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/SL2C/Basic.lean#L310
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/SL2C/Basic.lean#L310
     line: 310
     isInformalDef: false
     isInformalLemma: true
@@ -1682,7 +1682,7 @@ TODOItem:
       The homomorphism from `SL(2, ℂ)` to the restricted Lorentz group. 
 
   - file: PhysLean.Relativity.SL2C.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/SL2C/Basic.lean#L316
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/SL2C/Basic.lean#L316
     line: 316
     isInformalDef: false
     isInformalLemma: false
@@ -1695,7 +1695,7 @@ TODOItem:
       Define homomorphism from `SL(2, ℂ)` to the restricted Lorentz group.
 
   - file: PhysLean.Relativity.Special.TwinParadox.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Special/TwinParadox/Basic.lean#L64
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Special/TwinParadox/Basic.lean#L64
     line: 64
     isInformalDef: false
     isInformalLemma: false
@@ -1708,7 +1708,7 @@ TODOItem:
       Find the conditions for which the age gap for the twin paradox is zero.
 
   - file: PhysLean.Relativity.Special.TwinParadox.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Special/TwinParadox/Basic.lean#L66
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Special/TwinParadox/Basic.lean#L66
     line: 66
     isInformalDef: false
     isInformalLemma: true
@@ -1722,7 +1722,7 @@ TODOItem:
       then Twin B. 
 
   - file: PhysLean.Relativity.Special.TwinParadox.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Special/TwinParadox/Basic.lean#L140
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Special/TwinParadox/Basic.lean#L140
     line: 140
     isInformalDef: false
     isInformalLemma: false
@@ -1736,7 +1736,7 @@ TODOItem:
         in a different module.
 
   - file: PhysLean.Relativity.Tensors.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/Basic.lean#L541
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/Basic.lean#L541
     line: 541
     isInformalDef: false
     isInformalLemma: false
@@ -1750,7 +1750,7 @@ TODOItem:
           simpVarHead. This should be investigated.
 
   - file: PhysLean.Relativity.Tensors.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/Basic.lean#L581
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/Basic.lean#L581
     line: 581
     isInformalDef: false
     isInformalLemma: false
@@ -1764,7 +1764,7 @@ TODOItem:
         satifies `PermCond c1 c (PermCond.inv σ h)`.
 
   - file: PhysLean.Relativity.Tensors.Color.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/Color/Basic.lean#L472
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/Color/Basic.lean#L472
     line: 472
     isInformalDef: false
     isInformalLemma: false
@@ -1778,7 +1778,7 @@ TODOItem:
         can probably be made more efficent.
 
   - file: PhysLean.Relativity.Tensors.Color.Lift
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/Color/Lift.lean#L937
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/Color/Lift.lean#L937
     line: 937
     isInformalDef: true
     isInformalLemma: false
@@ -1793,7 +1793,7 @@ TODOItem:
       
 
   - file: PhysLean.Relativity.Tensors.ComplexTensor.Weyl.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/ComplexTensor/Weyl/Basic.lean#L288
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/ComplexTensor/Weyl/Basic.lean#L288
     line: 288
     isInformalDef: true
     isInformalLemma: false
@@ -1808,7 +1808,7 @@ TODOItem:
       
 
   - file: PhysLean.Relativity.Tensors.ComplexTensor.Weyl.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/ComplexTensor/Weyl/Basic.lean#L295
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/ComplexTensor/Weyl/Basic.lean#L295
     line: 295
     isInformalDef: false
     isInformalLemma: true
@@ -1823,7 +1823,7 @@ TODOItem:
       
 
   - file: PhysLean.Relativity.Tensors.Contraction.Pure
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/Contraction/Pure.lean#L577
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/Contraction/Pure.lean#L577
     line: 577
     isInformalDef: false
     isInformalLemma: false
@@ -1836,7 +1836,7 @@ TODOItem:
       Prove lemmas relating to the commutation rules of `dropPair` and `prodP`.
 
   - file: PhysLean.Relativity.Tensors.Evaluation
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/Evaluation.lean#L120
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/Evaluation.lean#L120
     line: 120
     isInformalDef: false
     isInformalLemma: false
@@ -1849,7 +1849,7 @@ TODOItem:
       Add lemmas related to the interaction of evalT and permT, prodT and contrT.
 
   - file: PhysLean.Relativity.Tensors.Product
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/Product.lean#L36
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/Product.lean#L36
     line: 36
     isInformalDef: false
     isInformalLemma: false
@@ -1863,7 +1863,7 @@ TODOItem:
         `Sum.elim c c1 ∘ ⇑finSumFinEquiv.symm`.
 
   - file: PhysLean.Relativity.Tensors.Product
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/Product.lean#L184
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/Product.lean#L184
     line: 184
     isInformalDef: false
     isInformalLemma: false
@@ -1877,7 +1877,7 @@ TODOItem:
         `(transparency := .instances)` is needed. As a first step adding this as a comment here.
 
   - file: PhysLean.Relativity.Tensors.RealTensor.Derivative
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/Derivative.lean#L69
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/Derivative.lean#L69
     line: 69
     isInformalDef: false
     isInformalLemma: false
@@ -1893,7 +1893,7 @@ TODOItem:
         `Λ • (∂ f (x)) = ∂ (fun x => Λ • f (Λ⁻¹ • x)) (Λ • x)`.
 
   - file: PhysLean.Relativity.Tensors.RealTensor.ToComplex
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L32
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L32
     line: 32
     isInformalDef: false
     isInformalLemma: false
@@ -1909,7 +1909,7 @@ TODOItem:
       is through basis. 
 
   - file: PhysLean.Relativity.Tensors.RealTensor.ToComplex
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L39
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L39
     line: 39
     isInformalDef: false
     isInformalLemma: true
@@ -1922,7 +1922,7 @@ TODOItem:
       The map `toComplex` is injective. 
 
   - file: PhysLean.Relativity.Tensors.RealTensor.ToComplex
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L44
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L44
     line: 44
     isInformalDef: false
     isInformalLemma: true
@@ -1935,7 +1935,7 @@ TODOItem:
       The map `toComplex` is equivariant. 
 
   - file: PhysLean.Relativity.Tensors.RealTensor.ToComplex
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L55
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L55
     line: 55
     isInformalDef: false
     isInformalLemma: true
@@ -1948,7 +1948,7 @@ TODOItem:
       The map `toComplex` commutes with permT. 
 
   - file: PhysLean.Relativity.Tensors.RealTensor.ToComplex
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L60
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L60
     line: 60
     isInformalDef: false
     isInformalLemma: true
@@ -1961,7 +1961,7 @@ TODOItem:
       The map `toComplex` commutes with prodT. 
 
   - file: PhysLean.Relativity.Tensors.RealTensor.ToComplex
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L65
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L65
     line: 65
     isInformalDef: false
     isInformalLemma: true
@@ -1974,7 +1974,7 @@ TODOItem:
       The map `toComplex` commutes with contrT. 
 
   - file: PhysLean.Relativity.Tensors.RealTensor.ToComplex
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L70
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/Relativity/Tensors/RealTensor/ToComplex.lean#L70
     line: 70
     isInformalDef: false
     isInformalLemma: true
@@ -1987,7 +1987,7 @@ TODOItem:
       The map `toComplex` commutes with evalT. 
 
   - file: PhysLean.SpaceAndTime.SpaceTime.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/SpaceAndTime/SpaceTime/Basic.lean#L18
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/SpaceAndTime/SpaceTime/Basic.lean#L18
     line: 18
     isInformalDef: false
     isInformalLemma: false
@@ -2000,7 +2000,7 @@ TODOItem:
       SpaceTime should be refactored into a structure, or similar, to prevent casting.
 
   - file: PhysLean.SpaceAndTime.SpaceTime.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/SpaceAndTime/SpaceTime/Basic.lean#L58
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/SpaceAndTime/SpaceTime/Basic.lean#L58
     line: 58
     isInformalDef: false
     isInformalLemma: true
@@ -2013,7 +2013,7 @@ TODOItem:
       The function `space` is equivariant with respect to rotations. 
 
   - file: PhysLean.StatisticalMechanics.CanonicalEnsemble.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L101
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L101
     line: 101
     isInformalDef: false
     isInformalLemma: false
@@ -2026,7 +2026,7 @@ TODOItem:
       The partition function of `n` copies of a canonical ensemble. 
 
   - file: PhysLean.StatisticalMechanics.CanonicalEnsemble.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L145
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L145
     line: 145
     isInformalDef: false
     isInformalLemma: false
@@ -2039,7 +2039,7 @@ TODOItem:
       Probability of a microstate in a canonical ensemble is less then or equal to `1`. 
 
   - file: PhysLean.StatisticalMechanics.CanonicalEnsemble.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L149
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L149
     line: 149
     isInformalDef: false
     isInformalLemma: false
@@ -2052,7 +2052,7 @@ TODOItem:
       Probability of a microstate in a canonical ensemble is non-negative. 
 
   - file: PhysLean.StatisticalMechanics.CanonicalEnsemble.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L169
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L169
     line: 169
     isInformalDef: false
     isInformalLemma: false
@@ -2066,7 +2066,7 @@ TODOItem:
         equal to the product of the probability of the corresponding individual microstates. 
 
   - file: PhysLean.StatisticalMechanics.CanonicalEnsemble.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L219
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L219
     line: 219
     isInformalDef: false
     isInformalLemma: false
@@ -2083,7 +2083,7 @@ TODOItem:
         value of `n`. 
 
   - file: PhysLean.StatisticalMechanics.CanonicalEnsemble.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L285
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L285
     line: 285
     isInformalDef: false
     isInformalLemma: false
@@ -2097,7 +2097,7 @@ TODOItem:
         to `n` times the entropy of the canonical ensemble. 
 
   - file: PhysLean.StatisticalMechanics.CanonicalEnsemble.Basic
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L308
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/Basic.lean#L308
     line: 308
     isInformalDef: false
     isInformalLemma: false
@@ -2111,7 +2111,7 @@ TODOItem:
         to `n` times the entropy of the canonical ensemble. 
 
   - file: PhysLean.StatisticalMechanics.CanonicalEnsemble.TwoState
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/TwoState.lean#L23
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/TwoState.lean#L23
     line: 23
     isInformalDef: false
     isInformalLemma: false
@@ -2125,7 +2125,7 @@ TODOItem:
         states have arbitary energies, rather than one state having energy `0`.
 
   - file: PhysLean.StatisticalMechanics.CanonicalEnsemble.TwoState
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/TwoState.lean#L75
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/TwoState.lean#L75
     line: 75
     isInformalDef: false
     isInformalLemma: true
@@ -2138,7 +2138,7 @@ TODOItem:
       A simplification of the `entropy` of the two-state canonical ensemble. 
 
   - file: PhysLean.StatisticalMechanics.CanonicalEnsemble.TwoState
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/TwoState.lean#L80
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/StatisticalMechanics/CanonicalEnsemble/TwoState.lean#L80
     line: 80
     isInformalDef: false
     isInformalLemma: true
@@ -2151,7 +2151,7 @@ TODOItem:
       A simplification of the `helmholtzFreeEnergy` of the two-state canonical ensemble. 
 
   - file: PhysLean.StatisticalMechanics.Temperature
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/StatisticalMechanics/Temperature.lean#L34
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/StatisticalMechanics/Temperature.lean#L34
     line: 34
     isInformalDef: false
     isInformalLemma: false
@@ -2165,7 +2165,7 @@ TODOItem:
         Kelvin, based on axiomized constants. 
 
   - file: PhysLean.StringTheory.FTheory.SU5U1.Charges.OfRationalSection
-    githubLink: https://github.com/HEPLean/PhysLean/blob/master/PhysLean/StringTheory/FTheory/SU5U1/Charges/OfRationalSection.lean#L28
+    githubLink: https://github.com/lean-phys-community/PhysLean/blob/master/PhysLean/StringTheory/FTheory/SU5U1/Charges/OfRationalSection.lean#L28
     line: 28
     isInformalDef: false
     isInformalLemma: false

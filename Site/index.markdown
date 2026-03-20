@@ -7,6 +7,10 @@
 #layout: home
 ---
 
+<div style="background-color: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 15px; margin: 20px 0;">
+  <strong>⚠️ Warning:</strong> We are undergoing a name change from PhysLean to PhysLib, so things may look different here.
+  Please be patient with us when we make this change.
+</div>
 
 <div class="example-container" style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; margin: 20px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <div style="text-align: center;">
