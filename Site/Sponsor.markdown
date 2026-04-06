@@ -7,9 +7,9 @@
 #layout: home
 ---
 
-# Sponsor PhysLean 
+# Sponsor Physlib 
 
-If you'd be interested helping support PhysLean financially please reach out to Joseph Tooby-Smith 
+If you'd be interested helping support Physlib financially please reach out to Joseph Tooby-Smith 
 at: 
 
 - js4814 [at] bath [dot] ac [dot] uk 
@@ -18,7 +18,7 @@ or on the [Lean Zulip](https://leanprover.zulipchat.com) (preferred).
 
 Financial support will allow us to: 
 
-- Host servers for an online version of PhysLean and search engines
+- Host servers for an online version of Physlib and search engines
 - Increase the rate of development of the project, and documentation
 
 
