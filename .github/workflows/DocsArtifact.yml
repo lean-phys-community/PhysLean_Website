@@ -41,8 +41,11 @@ jobs:
           run: lake -Kenv=dev exe cache get || true
   
         - name: Build project
-          run: lake -Kenv=dev build Physlib
-  
+          run: lake -Kenv=dev build
+        
+        - name: Ensure docs data directory exists
+          run: mkdir -p docs/_data
+          
         - name: make TODO list
           run : lake exe TODO_to_yml mkFile
   
