@@ -1,4 +1,6 @@
-# Loogle for PhysLean 
+# Loogle for Physlib 
+
+- This no longer is up and running. 
 
 To access server remotely use
 ```
@@ -130,16 +132,16 @@ hostName = "159.65.55.208"
 serverPort = 8000
 ```
 
-## Building PhysLean 
+## Building Physlib
 
-If starting from a new build you will have to build PhysLean. 
-There should be a more permanent fix to this, but for the time being: 
+If starting from a new build you will have to build Physlib. 
+There should be a more permanent fix to this, but for Physlib time being: 
 
 In 
 ```
 nano Tests.lean
 ```
-add `import PhysLean`. 
+add `import Physlib`. 
 Then run 
 ```
 lake build Tests

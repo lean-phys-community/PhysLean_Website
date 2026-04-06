@@ -1,10 +1,10 @@
 
-# The PhysLean Website
-This repository hosts the website for PhysLean. 
+# The Physlib Website
+This repository hosts the website for Physlib. 
 It is currently under development. 
 
 
-The PhysLean website is made using [Jekyll](https://jekyllrb.com) and is generated via the workflow
+The Physlib website is made using [Jekyll](https://jekyllrb.com) and is generated via the workflow
 `./.github/docs.yml`.
 
 ## Hosting the website locally
@@ -24,7 +24,7 @@ cd ./Site
 rm Gemfile.lock 
 bundle install
 ```
-## PhysLean domain
+## Physlib domain
 
-The PhysLean website is hosted at `https://physlean.com`. This domain is registered via
+The Physlib website is hosted at `https://physlib.io`. This domain is registered via
 squarespace domains by Joseph Tooby-Smith.

@@ -7,9 +7,9 @@
 #layout: home
 ---
 
-# APIs in PhysLean 
+# APIs in Physlib 
 
-The below is a list of APIs in PhysLean. 
+The below is a list of APIs in Physlib. 
 One way to help the project is by enhancing and developing these APIs. 
 ## Status Key
 
@@ -28,7 +28,7 @@ One way to help the project is by enhancing and developing these APIs.
   </div>
 </div>
 <div class="news-container" style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; margin: 20px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  <h2 style="text-align: center; margin-bottom: 20px;">APIs in PhysLean</h2>
+  <h2 style="text-align: center; margin-bottom: 20px;">APIs in Physlib</h2>
   <div style="display: grid; grid-template-columns: 1fr 3fr; gap: 15px;">
     <div style="font-weight: bold; padding: 8px; background-color: #f5f5f5; border-bottom: 1px solid #ddd;">Title</div>
     <div style="font-weight: bold; padding: 8px; background-color: #f5f5f5; border-bottom: 1px solid #ddd;">Description</div>

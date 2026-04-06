@@ -1,6 +1,8 @@
-# lean4web and PhysLean 
+# lean4web and Physlib 
 
-A version of lean4web with PhysLean can be found at: 
+- This no longer is up and running. 
+
+A version of lean4web with Physlib can be found at: 
 
 [live.physlean.com](live.physlean.com)
 
@@ -20,7 +22,7 @@ The server is based on the forked-repository:
 
 - https://github.com/jstoobysmith/lean4web
 
-Which has been modified to include the PhysLean project. 
+Which has been modified to include the Physlib project. 
 
 ## Installing necessary programs on server 
 
@@ -111,7 +113,7 @@ Then make the changes here:
 https://leanprover.zulipchat.com/#narrow/channel/113488-general/topic/.60import.20Mathlib.60.20not.20working.20in.20.60live.2Elean-lang.2Eorg.60.3F/with/523569316
 ```
 
-## Updating PhysLean version
+## Updating Physlib version
 ```
 cd ./lean4web
 npm run build

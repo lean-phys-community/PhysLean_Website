@@ -4,7 +4,7 @@ on:
     workflow_dispatch:       # Allows manual triggering from the GitHub Actions tab
 
   
-name: Archive site files and documentation from PhysLean
+name: Archive site files and documentation from Physlib
   
   # borrowed from https://github.com/teorth/pfr/blob/master/.github/workflows/push.yml
 permissions:
@@ -20,7 +20,7 @@ jobs:
         - name: Checkout project
           uses: actions/checkout@v4
           with:
-            repository: lean-phys-community/PhysLean
+            repository: leanprover-community/physlib
             fetch-depth: 0
   
         - name: Install Graphviz
@@ -41,7 +41,7 @@ jobs:
           run: lake -Kenv=dev exe cache get || true
   
         - name: Build project
-          run: lake -Kenv=dev build PhysLean
+          run: lake -Kenv=dev build Physlib
   
         - name: make TODO list
           run : lake exe TODO_to_yml mkFile
@@ -59,7 +59,7 @@ jobs:
           run : cp ./scripts/Template.lean .lake/packages/doc-gen4/DocGen4/Output/Template.lean
   
         - name: Build documentation
-          run: lake -Kenv=dev build PhysLean:docs
+          run: lake -Kenv=dev build Physlib:docs QuantumInfo:docs
         #End Section
         ##################
 
